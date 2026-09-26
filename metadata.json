@@ -1,0 +1,8 @@
+{
+  "name": "EcoLens - Open-World VLM Waste & Material Classifier",
+  "description": "Multimodal Vision-Language Model app for open-world identification of materials, waste objects, debris, recyclables, and detailed disposal or reuse recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
